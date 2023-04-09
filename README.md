@@ -21,6 +21,7 @@ The repository is organized into different folders based on the category of the 
     * Programming Languages
     * Blockchain
     * Cyber Security 
+    * Artificial Intelligence
     
 Each folder contains articles related to the respective category, along with any associated images or resources.
 
