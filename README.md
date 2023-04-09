@@ -5,7 +5,7 @@ Features
 
 Our tech articles come with a host of features that set them apart from other resources:
 
-    1. *** Detailed & Easy to Grasp Explanations ***: Each article breaks down complex concepts and topics into simpler terms, making it easy for readers to understand and absorb the information. We strive to maintain a balance between technical accuracy and reader-friendly language.
+    1. *Detailed & Easy to Grasp Explanations*: Each article breaks down complex concepts and topics into simpler terms, making it easy for readers to understand and absorb the information. We strive to maintain a balance between technical accuracy and reader-friendly language.
 
     2. *** Summary at the End ***: To help you retain key information, every article includes a concise summary at the end, highlighting the most important points discussed in the article.
 
