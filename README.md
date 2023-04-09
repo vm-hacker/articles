@@ -5,13 +5,13 @@ Features
 
 Our tech articles come with a host of features that set them apart from other resources:
 
-    1. *Detailed & Easy to Grasp Explanations*: Each article breaks down complex concepts and topics into simpler terms, making it easy for readers to understand and absorb the information. We strive to maintain a balance between technical accuracy and reader-friendly language.
+    1. Detailed & Easy to Grasp Explanations: Each article breaks down complex concepts and topics into simpler terms, making it easy for readers to understand and absorb the information. We strive to maintain a balance between technical accuracy and reader-friendly language.
 
-    2. *** Summary at the End ***: To help you retain key information, every article includes a concise summary at the end, highlighting the most important points discussed in the article.
+    2. Summary at the End: To help you retain key information, every article includes a concise summary at the end, highlighting the most important points discussed in the article.
 
-    3. *** Detailed Comparison ***: When applicable, articles include in-depth comparisons between different tools, frameworks, or technologies, enabling readers to make informed decisions and understand the strengths and weaknesses of each option.
+    3. Detailed Comparison: When applicable, articles include in-depth comparisons between different tools, frameworks, or technologies, enabling readers to make informed decisions and understand the strengths and weaknesses of each option.
 
-    4. *** Knowledge Test Questions ***: To ensure that you've thoroughly grasped the topic, each article concludes with a set of questions that test your understanding of the subject matter. This feature allows you to self-assess your learning progress and identify areas that may require additional study.
+    4. Knowledge Test Questions: To ensure that you've thoroughly grasped the topic, each article concludes with a set of questions that test your understanding of the subject matter. This feature allows you to self-assess your learning progress and identify areas that may require additional study.
 
 # Repository Structure
 
