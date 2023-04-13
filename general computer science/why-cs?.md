@@ -36,33 +36,33 @@ Computer science is an academic field that explores the theory and practice of c
 
 # Knowledge Questions
 1. What is the primary focus of computer science?
-a) Developing software and hardware
-b) Understanding the theory and practice of computing
-c) Developing practical applications of computing
-d) Implementing algorithms and information theory
+ - Developing software and hardware
+ - Understanding the theory and practice of computing
+ - Developing practical applications of computing
+ - Implementing algorithms and information theory
 
 (Ans: b) Understanding the theory and practice of computing)
 
 2. What distinguishes computer science from computer programming?
-a) Computer science focuses on practical applications, while programming focuses on theory.
-b) Computer science focuses on theory, while programming is more hands-on and technical.
-c) Computer science only deals with hardware, while programming focuses on software.
-d) Computer science is a sub-branch of programming.
+ - Computer science focuses on practical applications, while programming focuses on theory.
+ - Computer science focuses on theory, while programming is more hands-on and technical.
+ - Computer science only deals with hardware, while programming focuses on software.
+ - Computer science is a sub-branch of programming.
 
 (Ans: b) Computer science focuses on theory, while programming is more hands-on and technical.)
 
 3. What does computer science cover?
-a) Only theoretical aspects like algorithms and information theory.
-b) Only practical applications such as software development and hardware implementation.
-c) Both theoretical aspects and practical applications.
-d) None of the above.
+ - Only theoretical aspects like algorithms and information theory.
+ - Only practical applications such as software development and hardware implementation.
+ - Both theoretical aspects and practical applications.
+ - None of the above.
 
 (Ans: c) Both theoretical aspects and practical applications. )
 
 4. What is the role of algorithms in computer science?
-a) Algorithms are not relevant to computer science
-b) Algorithms are only relevant to computer programming
-c) Algorithms are important in both theoretical and practical aspects of computer science.
-d) Algorithms are only important in hardware implementation.
+ - Algorithms are not relevant to computer science
+ - Algorithms are only relevant to computer programming
+ - Algorithms are important in both theoretical and practical aspects of computer science.
+ - Algorithms are only important in hardware implementation.
 
 (Ans: c) Algorithms are important in both theoretical and practical aspects of computer science. )
