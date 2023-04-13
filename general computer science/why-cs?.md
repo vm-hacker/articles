@@ -29,3 +29,40 @@ Computer science is an academic field that explores the theory and practice of c
 7. Startup Potential
   - The tech industry's continuous growth creates opportunities for entrepreneurs.
   - High demand for diverse solutions and the prevalence of industry challenges make it an ideal environment for launching a startup.
+
+# Summary
+Computer science is an academic field that explores the theory and practice of computing, including software and hardware design and development. It offers many benefits and opportunities as a career path, including accessibility for beginners, internship opportunities, job market prospects, attractive salaries, practical skills, and startup potential. These advantages make computer science a popular choice among students and professionals looking for a rewarding and impactful career in a technology-driven world.
+
+
+Knowledge Questions
+What is the primary focus of computer science?
+a) Developing software and hardware
+b) Understanding the theory and practice of computing
+c) Developing practical applications of computing
+d) Implementing algorithms and information theory
+
+(Ans: b) Understanding the theory and practice of computing)
+
+What distinguishes computer science from computer programming?
+a) Computer science focuses on practical applications, while programming focuses on theory.
+b) Computer science focuses on theory, while programming is more hands-on and technical.
+c) Computer science only deals with hardware, while programming focuses on software.
+d) Computer science is a sub-branch of programming.
+
+(Ans: b) Computer science focuses on theory, while programming is more hands-on and technical.)
+
+What does computer science cover?
+a) Only theoretical aspects like algorithms and information theory.
+b) Only practical applications such as software development and hardware implementation.
+c) Both theoretical aspects and practical applications.
+d) None of the above.
+
+(Ans: c) Both theoretical aspects and practical applications. )
+
+What is the role of algorithms in computer science?
+a) Algorithms are not relevant to computer science
+b) Algorithms are only relevant to computer programming
+c) Algorithms are important in both theoretical and practical aspects of computer science.
+d) Algorithms are only important in hardware implementation.
+
+(Ans: c) Algorithms are important in both theoretical and practical aspects of computer science. )
